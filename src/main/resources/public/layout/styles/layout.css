@@ -288,7 +288,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#f3bf07 !important;}
 .overlay.light{color:#474747;}
 .overlay.light::after{background-color:rgba(255,255,255,.7);}
 
-.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#f3bf07; border-color:#f3bf07;}
+.btn, .btn.inverse:hover{color:#000000; background-color:#f3bf07; border-color:#f3bf07;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
 .imgover:hover::before{background-color:rgba(10,198,252,.3);/* #f3bf07 */}
@@ -344,7 +344,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#f3bf07 !important;}
 #mainav li a{color:inherit;}
 #mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#f3bf07; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(10,198,252,.5); border-color:rgba(10,198,252,.5);/* #f3bf07 */}
-#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#f3bf07;}
+#mainav li li:hover > a, #mainav .active .active > a{color:#000000; background-color:#f3bf07;}
 #mainav form select{color:#474747; background-color:#FFFFFF; border-color:#D7D7D7;}
 
 #breadcrumb *{color:#FFFFFF; background-color:inherit;}
@@ -356,7 +356,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#f3bf07 !important;}
 .pagination a, .pagination strong{border-color:#D7D7D7;}
 .pagination .current *{color:#FFFFFF; background-color:#f3bf07;}
 
-#backtotop{color:#FFFFFF; background-color:#f3bf07;}
+#backtotop{color:#000000; background-color:#f3bf07;}
 
 
 /* Tables + Comments */
